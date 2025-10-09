@@ -20,13 +20,34 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
                                
 ```
 <h2 align="center">REPOSITORY</h2>
-| ![Repo Personal](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(5%25)-blueviolet?style=for-the-badge&logo=github&logoColor=white) | ![Repo0](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-20c997?style=for-the-badge&logo=github&logoColor=white) |
-|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
-| [Personal](https://github.com/damianocastellarin/personal) | [Repo0](https://github.com/damianocastellarin/repo0) |
 
-| ![Repo1](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff7f50?style=for-the-badge&logo=github&logoColor=white) | ![Repo2](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff99cc?style=for-the-badge&logo=github&logoColor=white) |
-|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
-| [Repo1](https://github.com/damianocastellarin/repo1)       | [Repo2](https://github.com/damianocastellarin/repo2)       |
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/damianocastellarin/personal">
+        <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(5%25)-blueviolet?style=for-the-badge&logo=github&logoColor=white" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/damianocastellarin/repo0">
+        <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-20c997?style=for-the-badge&logo=github&logoColor=white" width="200">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/damianocastellarin/repo1">
+        <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff7f50?style=for-the-badge&logo=github&logoColor=white" width="200">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/damianocastellarin/repo2">
+        <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff99cc?style=for-the-badge&logo=github&logoColor=white" width="200">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
