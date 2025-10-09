@@ -25,7 +25,7 @@
 
 [![Clicca qui](https://img.shields.io/badge/If%20you%20can,%20click-Work%20in%20Progress-ff00ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damianocastellarin/personal)
 
-<p align="center"> <a href="https://github.com/damianocastellarin/Project1"> <img src="https://img.shields.io/badge/If%20you%20can,%20click,%20BUT-Work%20in%20Progress-blueviolet?style=for-the-badge&logo=github" width="400"> </a> </p>
+<p align="center"> <a href="https://github.com/damianocastellarin/Project1"> <img src="https://img.shields.io/badge/If%20you%20can,%20click<b>%20BUT</b>-Work%20in%20Progress-blueviolet?style=for-the-badge&logo=github" width="400"> </a> </p>
 
 ```text
 +-----------------------------------+
