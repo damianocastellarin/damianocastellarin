@@ -56,6 +56,7 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 |     4. git checkout main          |
 |     5. git merge project          |
 |     6. git push origin main       |
+|     7. leave building             |
 +-----------------------------------+
        \   ^__^
         \  (oo)\_______
