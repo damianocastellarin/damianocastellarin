@@ -20,44 +20,29 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
                                
 ```
 <h2 align="center">REPOSITORY</h2>
-<p align="center">
-  <a href="https://github.com/damianocastellarin/personal">
-    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(5%25)-blueviolet?style=for-the-badge&logo=github&logoColor=white" width="400">
-  </a>
-</p>
+| ![Repo Personal](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(5%25)-blueviolet?style=for-the-badge&logo=github&logoColor=white) | ![Repo0](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-20c997?style=for-the-badge&logo=github&logoColor=white) |
+|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
+| [Personal](https://github.com/damianocastellarin/personal) | [Repo0](https://github.com/damianocastellarin/repo0) |
 
-<p align="center">
-  <a href="https://github.com/damianocastellarin/repo0">
-    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-20c997?style=for-the-badge&logo=github&logoColor=white" width="400">
-  </a>
-</p>
+| ![Repo1](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff7f50?style=for-the-badge&logo=github&logoColor=white) | ![Repo2](https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff99cc?style=for-the-badge&logo=github&logoColor=white) |
+|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
+| [Repo1](https://github.com/damianocastellarin/repo1)       | [Repo2](https://github.com/damianocastellarin/repo2)       |
 
-<p align="center">
-  <a href="https://github.com/damianocastellarin/repo1">
-    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff7f50?style=for-the-badge&logo=github&logoColor=white" width="400">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/damianocastellarin/repo2">
-    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(0%25)-ff99cc?style=for-the-badge&logo=github&logoColor=white" width="400">
-  </a>
-</p>
 
 
 
 
 ```text
-+---------------------------------+
-|  In case of fire:               |
-|     1. git add .                |
-|     2. git commit -m ""         |
-|     3. git push                 |
-|     4. git checkout main        |
-|     5. git merge project        |
-|     6. git push origin main     |
-|     7. leave building           |
-+---------------------------------+
++-----------------------------------+
+|  In case of fire:                 |
+|     1. git add .                  |
+|     2. git commit -m "message"    |
+|     3. git push                   |
+|     4. git checkout main          |
+|     5. git merge project          |
+|     6. git push origin main       |
+|     7. leave building             |
++-----------------------------------+
        \   ^__^
         \  (oo)\_______
            (__)\       )\/\
