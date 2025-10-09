@@ -27,6 +27,19 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 </p>
 
 
+[![WORK IN PROGRESS 5%](https://img.shields.io/badge/WORK%20IN%20PROGRESS-5%25-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damianocastellarin/personal)
+
+
+<p align="center">
+  <a href="https://github.com/damianocastellarin/personal" style="text-decoration:none;">
+    <div style="border:2px solid white; border-radius:5px; width:400px; background-color:#5a00ff; color:white; font-weight:bold; text-align:center; padding:5px; position:relative;">
+      <div style="background-color:white; width:5%; height:100%; position:absolute; top:0; left:0; border-radius:5px 0 0 5px;"></div>
+      <span style="position:relative; z-index:1; color:black;">WORK IN PROGRESS 5%</span>
+    </div>
+  </a>
+</p>
+
+
 ```text
 +-----------------------------------+
 |  In case of fire:                 |
