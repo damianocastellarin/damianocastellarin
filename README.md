@@ -26,6 +26,25 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/damianocastellarin/repo0">
+    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS-00ff00?style=for-the-badge&logo=github&logoColor=white" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/damianocastellarin/repo1">
+    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS-ff4500?style=for-the-badge&logo=github&logoColor=white" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/damianocastellarin/repo2">
+    <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS-00ffff?style=for-the-badge&logo=github&logoColor=white" width="400">
+  </a>
+</p>
+
+
 
 ```text
 +-----------------------------------+
