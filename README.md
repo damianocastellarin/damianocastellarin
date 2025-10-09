@@ -19,7 +19,7 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 |____/|_| /_/   \_\____|_____|
                                
 ```
-## REPOSITORY
+<h2 align="center">REPOSITORY</h2>
 <p align="center">
   <a href="https://github.com/damianocastellarin/personal">
     <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(5%25)-blueviolet?style=for-the-badge&logo=github&logoColor=white" width="400">
