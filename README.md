@@ -31,7 +31,7 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 +-----------------------------------+
 |  In case of fire:                 |
 |     1. git add .                  |
-|     2. git commit -m "messaggio" |
+|     2. git commit -m "messaggio"  |
 |     3. git push                   |
 |     4. git checkout main          |
 |     5. git merge project          |
