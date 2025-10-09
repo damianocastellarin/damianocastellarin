@@ -23,7 +23,7 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
   <a href="https://github.com/damianocastellarin/personal">
     <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS-blueviolet?style=for-the-badge&logo=github&logoColor=white" width="400">
   </a>
