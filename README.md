@@ -46,13 +46,9 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 ```text
 +---------------------------------+
 | In case of fire:                |
-|    1. git add .                 |
-|    2. git commit -m "message"   |
-|    3. git push                  |
-|    4. git checkout main         |
-|    5. git merge project         |
-|    6. git push origin main      |
-|    7. leave building            |
+|    1. git commit                |
+|    2. git push                  |
+|    3. leave building            |
 +---------------------------------+
        \   ^__^
         \  (oo)\_______
