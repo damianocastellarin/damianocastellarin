@@ -28,7 +28,7 @@ __        _______ _     ____ ___  __  __ _____   _____ ___
 <h2 align="center">REPOSITORY</h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="[https://github.com/damianocastellarin/personal](https://github.com/damianocastellarin/auto_motive)">
+  <a href="https://github.com/damianocastellarin/auto_motive">
     <img src="https://img.shields.io/badge/WORK%20IN%20PROGRESS%20(5%25)-blueviolet?style=for-the-badge&logo=github&logoColor=white" width="400">
   </a>
 </div>
